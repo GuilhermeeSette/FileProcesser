@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8b6b292-1e5e-485d-89e3-773e46b35954" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="28q0eWv7hab5bgbc1d3fVnDkABU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../fileProcesser" />
+      <recent name="$PROJECT_DIR$/tests/Jobs" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8b6b292-1e5e-485d-89e3-773e46b35954" name="Default Changelist" comment="" />
+      <created>1651928903702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651928903702</updated>
+      <workItem from="1651928905731" duration="1475000" />
+      <workItem from="1652014777223" duration="4140000" />
+      <workItem from="1652098449847" duration="5545000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="142" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1652016459172">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="142" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1652016459172" />
+    <state x="570" y="-781" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1652104547955">
+      <screen x="-128" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="570" y="-781" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/-128.-1080.1920.1080/0.0.1680.1050@-128.-1080.1920.1080" timestamp="1652104547955" />
+    <state x="570" y="-781" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/-128.-1080.1920.1080/0.25.1680.1025@-128.-1080.1920.1080" timestamp="1652104349554" />
+    <state x="501" y="-736" key="NewPhpClassDialog" timestamp="1652105186091">
+      <screen x="-128" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="501" y="-736" key="NewPhpClassDialog/-128.-1080.1920.1080/0.0.1680.1050@-128.-1080.1920.1080" timestamp="1652104520842" />
+    <state x="501" y="-736" key="NewPhpClassDialog/-128.-1080.1920.1080/0.25.1680.1025@-128.-1080.1920.1080" timestamp="1652105186091" />
+    <state x="653" y="-617" key="NewPhpFileDialog" timestamp="1652105230922">
+      <screen x="-128" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="653" y="-617" key="NewPhpFileDialog/-128.-1080.1920.1080/0.25.1680.1025@-128.-1080.1920.1080" timestamp="1652105230922" />
+    <state x="341" y="-904" key="SettingsEditor" timestamp="1652103363725">
+      <screen x="-128" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="341" y="-904" key="SettingsEditor/-128.-1080.1920.1080/0.25.1680.1025@-128.-1080.1920.1080" timestamp="1652103363725" />
+    <state x="504" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1652100166130">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="504" y="354" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1652100166130" />
+    <state x="100" y="100" width="1480" height="850" key="dock-window-1" timestamp="1652036816607">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="100" y="100" width="1480" height="850" key="dock-window-1/0.0.1680.1050@0.0.1680.1050" timestamp="1652036816607" />
+    <state x="386" y="-806" width="892" height="533" key="find.popup" timestamp="1652104621759">
+      <screen x="-128" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="386" y="-806" width="892" height="533" key="find.popup/-128.-1080.1920.1080/0.0.1680.1050@-128.-1080.1920.1080" timestamp="1652104621759" />
+    <state x="450" y="266" width="780" height="518" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1652018562590" />
+    <state x="449" y="-840" width="766" height="696" key="search.everywhere.popup" timestamp="1652104524724">
+      <screen x="-128" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="449" y="-840" width="766" height="696" key="search.everywhere.popup/-128.-1080.1920.1080/0.0.1680.1050@-128.-1080.1920.1080" timestamp="1652104524724" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1652016522746" />
+  </component>
+</project>
